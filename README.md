@@ -1,5 +1,7 @@
 # FaceDetection
 Face detection on Android using dlib and opencv.
+ori：https://github.com/lightweh/FaceDetection
+fork time：2019/9/4
 
 ## Prerequisites
 - Android Studio
